@@ -1,15 +1,5 @@
 <!-- Typing Animation -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=2000&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Hello+World!;I'm+Abhishek+Kasture.;abhieeeeecode;DevSecOps+Enthusiast.;AI+Automation+Engineer+in+Progress.;Cybersecurity+Learner+%7C+CTF+Player.)
-
----
-
-
-
-
----
-
-## 📊 GitHub Stats
-
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=abhieeeeecode&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
 </p>
@@ -17,28 +7,10 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhieeeeecode&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-## 🛡 Cybersecurity Journey
-
 ### 🔥 TryHackMe
 <a href="https://tryhackme.com/p/ZenAkatsuki">
 <img src="https://tryhackme-badges.s3.amazonaws.com/ZenAkatsuki.png" width="220"/>
 </a>
-
----
-
-## 📈 2026 Focus Roadmap
-
-- 🔐 Secure CI/CD Pipelines  
-- 🤖 AI-Driven Automation Frameworks  
-- 🧪 API Security Testing  
-- ☁️ Cloud + DevSecOps Integration  
-- 🛡 Secure Software Development Lifecycle (SSDLC)  
-
----
-
 ## 📫 Connect With Me
 
 <p>
