@@ -3,41 +3,8 @@
 
 ---
 
-# 👨‍💻 Abhishek Kasture | abhieeeeecode
 
-💡 DevSecOps Enthusiast  
-🤖 AI Automation Engineer (in progress)  
-🔐 Cybersecurity Learner | CTF Player  
-⚙️ Oracle CPQ Learner  
-🏆 Hackathon Explorer  
 
----
-
-## 🚀 About Me
-
-- 🔭 Currently building AI-powered automation systems  
-- 🌱 Learning DevSecOps + API Security Testing  
-- 🧠 Strong foundation in C, Python, Java & OOP  
-- 🛡 Passionate about Secure Architecture & Ethical Hacking  
-- 🎯 Goal: Elite Automation + Security Architect  
-
----
-
-## 🛠 Tech Stack
-
-### 💻 Languages
-- C  
-- Python  
-- Java  
-- HTML  
-
-### ⚙️ Tools & Domains
-- Git & GitHub  
-- API Integrations  
-- Oracle CPQ  
-- Linux Fundamentals  
-- DevSecOps Basics  
-- Automation Framework Design  
 
 ---
 
