@@ -7,12 +7,9 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhieeeeecode&layout=compact&theme=tokyonight" />
 </p>
-### 🔥 TryHackMe
 <a href="https://tryhackme.com/p/ZenAkatsuki">
 <img src="https://tryhackme-badges.s3.amazonaws.com/ZenAkatsuki.png" width="220"/>
 </a>
-## 📫 Connect With Me
-
 <p>
   <a href="https://www.linkedin.com/in/abhishek-kasture-901bb335b">
     <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Kasture-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
