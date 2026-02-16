@@ -1,5 +1,5 @@
 <!-- Typing Animation -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=2000&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Hello+techieesssss!;I'm+Abhishek+Kasture.;abhieeeeecode;DevSecOps+Enthusiast.;AI+Automation+Engineer+in+Progress.;Cybersecurity+Learner+%7C+CTF+Player.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=2000&pause=1200&color=FF0000&center=true&vCenter=true&width=700&lines=Hello+techieesssss!;I'm+Abhishek+Kasture.;abhieeeeecode;DevSecOps+Enthusiast.;AI+Automation+Engineer+in+Progress.;Cybersecurity+Learner+%7C+CTF+Player.)
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=abhieeeeecode&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
 </p>
