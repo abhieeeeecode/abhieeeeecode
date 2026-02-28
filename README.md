@@ -1,5 +1,4 @@
-![_Miyamoto Musashi](https://github.com/user-attachments/assets/8ea68280-1e9b-4f1e-a00b-8a819c4c75fe)
-![download](https://github.com/user-attachments/assets/3b9316b1-9511-4b11-839a-0762fa7e4ac2)
+
 <!-- Typing Animation -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=2000&pause=1200&color=FF0000&center=true&vCenter=true&width=700&lines=Hello+techieesssss!;I'm+Abhishek+Kasture.;abhieeeeecode;DevSecOps+Enthusiast.;AI+Automation+Engineer+in+Progress.;Cybersecurity+Learner+%7C+CTF+Player.)
 <p>
